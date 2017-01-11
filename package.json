@@ -1,0 +1,8 @@
+{
+    "name": "nSnowflake",
+    "version": "0.0.1",
+    "description": "A port of Twitter's Snowflake algorithm to node.js,Snowflake is a service for generating unique ID numbers at high scale",
+    "dependencies": {
+        "bson": "*"
+    }
+}
